@@ -7,7 +7,7 @@ var i;
 /**
  * Gestion des requêtes HTTP des utilisateurs en leur renvoyant les fichiers du dossier 'public'
  */
-app.use('/', express.static(__dirname + '/public'));
+app.use(express.static(__dirname + '/public'));
 
 /**
  * Liste des utilisateurs connectés
