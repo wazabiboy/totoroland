@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "Supernatural_Knight";
-    src: url("/fonts/Supernatural_Knight.ttf");
+    font-family: " atwriter";
+    src: url("/fonts/ atwriter.ttf");
 }
 
 * {
@@ -12,7 +12,7 @@ html, body, head {
     height: 100%;
 }
 body {
-    font-family: "Supernatural_Knight";
+    font-family: "atwriter";
     transition: all 0.5s;
     background-color: rgba(133, 133, 133, 0.281);
     font-size: 1em;
